@@ -11,7 +11,11 @@ Here's what the procedure would look like:
 	* The resulting model with be saved to a model directory stipulated in the ModelClass class that can be loaded later for use.
 	* A confusion matrix showing the actual and predicted classes will also present itself to help determine model quality. Below is an example output from running the full room dataset.
 
-![alt text](https://github.com/jonathonrambo/generic-image-classification-framework/blob/f91b0959ea144cb6debef0872ecf859078eff5ed/confusion.png?raw=true)
+
+
+	![alt text](https://github.com/jonathonrambo/generic-image-classification-framework/blob/f91b0959ea144cb6debef0872ecf859078eff5ed/confusion.png?raw=true)
+
+
 
 ```markdown
 
