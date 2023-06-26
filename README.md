@@ -3,7 +3,7 @@ This is just a first round of development for a more generic framework used to t
 
 To use the module only a directory of labelled images (encoded as .jpg) is required. The structure should be such that image classes are set as the *images* sub-directories names and the corresponding images live inside of each directory. (See below and in the example data for a guide on of how to do this) 
 
-Here's what the procedure would look like:
+Here's what the procedure would look like to train a new model:
 1. Gather all images of each class into a directory that's name is the class name for each class. 
 	* e.g. all bathroom images go into the bathroom directory, all bedroom images go into the bedroom directory, and so on.
 2. Update the classes declaration line in *main.py* 
