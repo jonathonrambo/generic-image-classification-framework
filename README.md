@@ -1,7 +1,7 @@
 # Generic Image Classification Framework
 This is just a first round of development for a more generic framework used to train image classification models. This is designed to work out of the box. The example data used here is a subset of scraped images of rooms utilizing meta data and user descriptions to determine the labels. 
 
-To use the module only a directory of labelled images (encoded as .jpg) is required. The structure should be such that image classes are set as the *images* sub-directories and the corresponding images live inside of each directory. (See below and in the example data for a guide on of how to do this) 
+To use the module only a directory of labelled images (encoded as .jpg) is required. The structure should be such that image classes are set as the *images* sub-directories names and the corresponding images live inside of each directory. (See below and in the example data for a guide on of how to do this) 
 
 Here's what the procedure would look like:
 1. Gather all images of each class into a directory that's name is the class name for each class. 
